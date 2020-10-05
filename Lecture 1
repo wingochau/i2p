@@ -6,14 +6,14 @@ Size: Wide
 ---
 Layout: Title
 Background: ./img/CASA_Logo_no_text.png
-# Getting Oriented
-## Key information to get you started...
+## Getting Oriented
+### Key information to get you started...
 
 ^ This presentation contains key contact and delivery information about the module.
 
 
 ---
-## Key Contacts (Staff)
+# Key Contacts (Staff)
 
 |  Jon Reades  | Huanfa Chen   |
 |----|----|
@@ -24,7 +24,7 @@ Background: ./img/CASA_Logo_no_text.png
 ^ Most of your questions should be directed to me, as course convenor, or to Huanfa as teaching fellow.
 
 ---
-## Key Contacts (PGTAs) 
+# Key Contacts (PGTAs) 
 
 | Melda Salhab | Philip Wilkinson |
 |--------------|------------------|
@@ -36,7 +36,7 @@ Background: ./img/CASA_Logo_no_text.png
 ^ It's fine to reach out to them for two reasons: 1) because you are meant to be in a practical session and are unable to join for some reason; 2) because there's an issue that you don't feel comfortable raising directly with me.
 
 ---
-## How We Are Running Things... 
+# How We Are Running Things... 
 
 - **Lectures**: these will be pre-recorded and divided up into shorter segments that are easy to follow. I will do everything in my power to make them available to you by the Thursday *before* the 'lecture'.
 - **Padlet**: this is an online tool that we will use as the group whiteboard to help prioritise challenges, share triumphs, reflect on the readings.
@@ -46,7 +46,7 @@ Background: ./img/CASA_Logo_no_text.png
 ^ People auditing: please try to get to the Monday pm session, and keep in mind that whatever session you're in, the students need to have proiority.
 
 ---
-## Assessments
+# Assessments
 
 - **Timed Skills Assessment%** (15% of module grade; 2 hours; 3 for those with *Inclusion Plans*): A quiz designed to test students' understanding of basic Python concepts covered in the module.
 ^ **1** Students may begin the test at any time in a 24-hour window, but once begun they will have 2 hours to complete the test. The time limit is 3 hours for students with Inclusion Plans. This will be made available after the 2nd practical session in Week 3.
@@ -56,14 +56,14 @@ Background: ./img/CASA_Logo_no_text.png
 ^ **3** A Jupyter notebook submitted at the start of Term 2. There are two parts to the notebook: an Executive Briefing and a Reproducible Analysis. The word limit for the Executive Briefing portion of the notebook is 2,500 words. There is no limit to the amount of code in the Reproducible Analysis portion of the notebook.
 
 ---
-### How to 'Ace' the Assessments?
+## How to 'Ace' the Assessments?
 
 >  *Study* like you're learning a new language. *Do* the readings. *Talk* to other students. *Ask* for help when you need it!
 
 ^ More on how to ask for help below!
 
 ---
-## Where Does I2P Fit?
+# Where Does I2P Fit?
 
 - **Geographic Information Systems (GIS)**
   - Foundations of spatial analysis
@@ -77,7 +77,7 @@ Background: ./img/CASA_Logo_no_text.png
 
 ---
 
-## What Are We Trying to Do?
+# What Are We Trying to Do?
 
 This class hopes to achieve three things:
 
@@ -88,7 +88,7 @@ This class hopes to achieve three things:
 These skills are intended to be transferrable.
 
 ---
-## Overall Structure
+# Overall Structure
 
 - **Weeks 1-4:** baking in the 'basics'
 - **Weeks 5-7:** engaging with data. 
@@ -99,7 +99,7 @@ These skills are intended to be transferrable.
 
 ---
 
-### Also...
+## Also...
 
 We hope to convince you that:
 - Anyone---and this includes **you**---can code. 
@@ -108,7 +108,7 @@ We hope to convince you that:
 - Learning to code *does* require practice. And more practice. And more again.
 
 ---
-### Consequences...
+## Consequences...
 
 - If you only code during the practical session then you will *not* learn how to code. 
 - If you cram the night before then you will *not* learn how to code.
@@ -116,7 +116,7 @@ We hope to convince you that:
 
 ---
 Layout: Split
-### A Bit of Perspective
+## A Bit of Perspective
 
 Students face the risks of the de-skilling of geography and planning at one end, and being subsumed by data science at the other…
 ![](./img/Harris_Tweet.png)
@@ -125,7 +125,7 @@ Students face the risks of the de-skilling of geography and planning at one end,
 
 ---
 
-### The challenges
+## The challenges
 
 - Different style of learning from what you might be used to (“I didn't anticipate, or rather factor into my schedule, the amount of out-of-ours practice that was required to stay up to date.”).
 - Doing stats *and* programming *at the same time* and connecting this all back to the bigger picture.
@@ -133,7 +133,7 @@ Students face the risks of the de-skilling of geography and planning at one end,
 - Easy to fall behind, but hard to catch up (“the pace is relentless”).
 
 ---
-### The rewards
+## The rewards
 
 - Skills that are highly transferrable and highly sought-after professionally.
 - Problem-solving and practical skills that are valued by the private and public sectors.
@@ -142,7 +142,7 @@ Students face the risks of the de-skilling of geography and planning at one end,
 
 ---
 
-### The implications
+## The implications
 
 You will learn to code *best* if you treat it like learning a new language:
 
@@ -156,11 +156,11 @@ You will learn to code *best* if you treat it like learning a new language:
 
 ---
 Layout: SectionTitle
-# Getting Help
+## Getting Help
 
 ---
 
-### Study Aids
+## Study Aids
 
 When you need an answer *right now*:
 
@@ -179,7 +179,7 @@ When you want to *learn more*:
 
 ---
 
-### Study 'Right'
+## Study 'Right'
 
 I've tried to throw together some _ideas_ on how you can study effectively, given the challenges that we all face this year with everything being online. It covers everything from 'how to manage distractions' to 'how to email your prof (and get a reply!)'. 
 
@@ -189,7 +189,7 @@ It's in the ['Getting Help'](https://moodle.ucl.ac.uk/course/view.php?id=11291&s
 
 ---
 
-### *Before* You Ask for Help
+## *Before* You Ask for Help
 
 From the [Computer Science Wiki](https://computersciencewiki.org/index.php/How_to_ask_for_help):
 
@@ -206,7 +206,7 @@ To which I would add:
 
 ---
 
-### *Where* to Ask for Help
+## *Where* to Ask for Help
 
 There is *no* shame in asking for help. None. We are here to support your learning and we have chosen a range of tools to support that:
 
@@ -218,7 +218,7 @@ There is *no* shame in asking for help. None. We are here to support your learni
 
 ---
 
-### *When* to Ask for Help
+## *When* to Ask for Help
 
 - When you get warning messages from your computer's Operating System.
 - When you cannot get the coding environment to run _at all_.
@@ -230,7 +230,7 @@ There is *no* shame in asking for help. None. We are here to support your learni
 
 ---
 
-### *How* to Ask for Help
+## *How* to Ask for Help
 
 I liked the "How to ask programming questions" page provided [by ProPublica](https://www.propublica.org/nerds/how-to-ask-programming-questions):
 
@@ -243,13 +243,13 @@ If you find yourself wanting to ask a question on Stack Exchange then they also 
 
 ---
 
-## Learn from Your Mistakes
+# Learn from Your Mistakes
 
 ![](./img/Learning_from_Mistakes.png)
 
 ---
 
-## Bug Hunt!
+# Bug Hunt!
 
 The [Knuth reward check](https://en.m.wikipedia.org/wiki/Knuth_reward_check) ('cheque') is "among computerdom's most prized trophies" [^1] but is almost never cashed! They are rewards for finding 'bugs' of any sort in Knuth's seminal books on programming.
 
@@ -261,7 +261,7 @@ The [Knuth reward check](https://en.m.wikipedia.org/wiki/Knuth_reward_check) ('c
 
 ---
 
-### A.K.A. Catch Out the Prof!
+## A.K.A. Catch Out the Prof!
 
 Report a bug (or make a helpful suggestion) of any sort on GitHub using the [issues](https://github.com/jreades/i2p/issues) tracker then it will count towards your contribution to the module. 
 
@@ -275,7 +275,7 @@ At the end of the module I will work out whose contributions have done the most 
 
 ---
 
-## One More Thing...
+# One More Thing...
 
 This year (in particular) we are *all* learning new ways to do things. You will get things wrong. I will get things wrong. 
 
