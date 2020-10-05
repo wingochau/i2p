@@ -5,7 +5,7 @@ Palette: Purple
 Size: Wide
 ---
 Layout: Title
-# Writing Code
+### **bold**Writing Code
 ---
 ## Don't Just Start Coding...
 There are three parts to writing code:
